@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PictureExplore</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+</resources>

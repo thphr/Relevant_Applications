@@ -1,6 +1,6 @@
 # Relevant Applications
 
-The applications will be further explained followed by the contribution of the Author to each projects.
+The applications will be further explained followed by the contribution of the Author to each project.
 
 ## Picture_explorer-master
 * **Description:** An small application that loads pictures from flickr and lets you browse the pictures.
